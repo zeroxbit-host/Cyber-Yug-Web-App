@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "vite",
+    "start" : "node app.js"
     "test": "nodemon app.js"
   },
   "keywords": [],
@@ -23,7 +23,6 @@
     "nodemon": "^2.0.15",
     "razorpay": "^2.8.0",
     "shortid": "^2.2.16",
-    "vite": "^2.7.10"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.1",
